@@ -1,5 +1,4 @@
 # Systeme-alerte-connecte-esp32
-# Système d'alerte connecté – ESP32
 
 ## Présentation du projet
 
